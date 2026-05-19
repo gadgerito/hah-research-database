@@ -1,9 +1,6 @@
 # Hospital at Home Users Group Research Center
 
 An automated, reproducible literature curation system for the Hospital at Home (HaH) care model. Pulls peer-reviewed publications from PubMed monthly, filters for relevance, tags by clinical condition and study type, and serves the results through an interactive R Shiny dashboard.
-
-**Live dashboard:** [link to your deployed app]
-
 ---
 
 ## What this is
